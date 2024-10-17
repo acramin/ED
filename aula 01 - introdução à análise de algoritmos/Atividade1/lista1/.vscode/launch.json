@@ -1,0 +1,119 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Ex4_MedeAcoes",
+            "request": "launch",
+            "mainClass": "Ex4_MedeAcoes",
+            "projectName": "lista1_d557ee24"
+        },
+        {
+            "type": "java",
+            "name": "Ex3_MedeAcoes",
+            "request": "launch",
+            "mainClass": "Ex3_MedeAcoes",
+            "projectName": "lista1_d557ee24"
+        },
+        {
+            "type": "java",
+            "name": "Ex2_MedeAcoes",
+            "request": "launch",
+            "mainClass": "Ex2_MedeAcoes",
+            "projectName": "lista1_d557ee24"
+        },
+        {
+            "type": "java",
+            "name": "Ex1_MedeAcoe2",
+            "request": "launch",
+            "mainClass": "Ex1_MedeAcoe2",
+            "projectName": "lista1_d557ee24"
+        },
+        {
+            "type": "java",
+            "name": "Ex3_MedeTempo",
+            "request": "launch",
+            "mainClass": "Ex3_MedeTempo",
+            "projectName": "lista1_d557ee24"
+        },
+        {
+            "type": "java",
+            "name": "Ex2_MedeTempo",
+            "request": "launch",
+            "mainClass": "Ex2_MedeTempo",
+            "projectName": "lista1_d557ee24"
+        },
+        {
+            "type": "java",
+            "name": "Ex4_MedeTempo",
+            "request": "launch",
+            "mainClass": "Ex4_MedeTempo",
+            "projectName": "lista1_d557ee24"
+        },
+        {
+            "type": "java",
+            "name": "Ex1_MedeTempo",
+            "request": "launch",
+            "mainClass": "Ex1_MedeTempo",
+            "projectName": "lista1_d557ee24"
+        },
+        {
+            "type": "java",
+            "name": "Ex1_MedeAcoes",
+            "request": "launch",
+            "mainClass": "Ex1_MedeAcoes",
+            "projectName": "lista1_d557ee24"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Ex1",
+            "request": "launch",
+            "mainClass": "Ex1",
+            "projectName": "lista1_d557ee24"
+        },
+        {
+            "type": "java",
+            "name": "Ex2",
+            "request": "launch",
+            "mainClass": "Ex2",
+            "projectName": "lista1_d557ee24"
+        },
+        {
+            "type": "java",
+            "name": "Ex3",
+            "request": "launch",
+            "mainClass": "Ex3",
+            "projectName": "lista1_d557ee24"
+        },
+        {
+            "type": "java",
+            "name": "Ex4",
+            "request": "launch",
+            "mainClass": "Ex4",
+            "projectName": "lista1_d557ee24"
+        },
+        {
+            "type": "java",
+            "name": "MedeAcoes",
+            "request": "launch",
+            "mainClass": "MedeAcoes",
+            "projectName": "lista1_d557ee24"
+        },
+        {
+            "type": "java",
+            "name": "MedeTempo",
+            "request": "launch",
+            "mainClass": "MedeTempo",
+            "projectName": "lista1_d557ee24"
+        }
+    ]
+}

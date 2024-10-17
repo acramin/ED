@@ -1,0 +1,8 @@
+Parte A 
+    3.  Houve um total de 4 colisões.
+        A chave 60 colide com a chave 10 porque h = 0 em ambos os casos.
+        A chave 44 colide com a chave 24 porque h = 4 em ambos os casos.
+        A chave 80 colide com a chave 10 porque h = 0 em ambos os casos.
+        A chave 90 colide com a chave 10 porque h = 0 em ambos os casos.
+    4.	Essas colisões não foram tratadas, assim o valor da tabela hash é nulo.
+    5.	A colisão poderia ser tratada implementando uma busca linear afim de alocar a chave no próximo slot vazio.
