@@ -3,14 +3,14 @@ import java.util.*;
 class Aresta implements Comparable<Aresta> {
     int origem, destino, peso;
 
-    // Construtor da aresta
+    // Construtor da classe Aresta
     public Aresta(int origem, int destino, int peso) {
         this.origem = origem;
         this.destino = destino;
         this.peso = peso;
     }
 
-    // Método para comparar arestas (para ordenação)
+    // Método para comparar arestas (para ordenação por peso)
     public int compareTo(Aresta outra) {
         return this.peso - outra.peso;
     }
